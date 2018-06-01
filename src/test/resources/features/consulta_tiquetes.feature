@@ -1,6 +1,3 @@
-#Author: sambonill@bancolombia.com.co
-
-
 
 Feature: Consult economic tickets
   As a frequent user
